@@ -1,4 +1,4 @@
-# tesseract-test
+# nuxt-tesseract
 
 ## Build Setup
 
